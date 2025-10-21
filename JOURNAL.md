@@ -11,3 +11,11 @@
 it looked bands withy use white so i did this. Used a drawing app i had on my iPad to do it :). Im gonna try to make a better one sometime soon. Hoping to get this project done fairly quick;y although I haven’t e=en assembled my last bot.![IMG_1685.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MywicHVyIjoiYmxvYl9pZCJ9fQ==--72b6755b65b5d773d1f9c8cd8e66c59bdaaf6f5b/IMG_1685.jpeg)
   
 
+## 10/21/2025 - Started designing+making schematic and made parts list  
+
+Started designing on cad and found a schematic as well as making a parts list. Hoping to have design done this week. Still thinking of name for bot.
+:)
+
+![IMG_1684.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1fbc83b24ecc12fbea407894e79aa021d39bac8d/IMG_1684.png)
+  
+
