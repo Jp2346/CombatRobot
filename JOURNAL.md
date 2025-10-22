@@ -19,3 +19,8 @@ Started designing on cad and found a schematic as well as making a parts list. H
 ![IMG_1684.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1fbc83b24ecc12fbea407894e79aa021d39bac8d/IMG_1684.png)
   
 
+## 10/22/2025 - Got the design down  
+
+Worked on the design of this bot. I think this will be the basic design but probably not the last, I also came up with a name since it’s a wedge bot ive decided to name it wedgie.![IMG_1694.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU2NywicHVyIjoiYmxvYl9pZCJ9fQ==--88e9821bb976b62e0089426e6efc242c95290b6d/IMG_1694.jpeg)
+  
+
